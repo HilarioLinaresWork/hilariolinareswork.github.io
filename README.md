@@ -25,3 +25,7 @@ All images currently shown are **illustrative samples**, not evidence of actual 
 ## Version 1.1
 
 Added a real shed workshop and laundry space project with 13 optimized photos. Other gallery images remain illustrative. Upload all files from this folder to repository root, replacing existing files.
+
+## Shed gallery v1.3
+
+The Shed Project section now uses exactly the 10 retouched images in `Shed final.zip`, in order. Photo titles and captions were reviewed against the images; the previous 3 extra shed photos were removed. Gallery filenames are `assets/shed/shed01-start.jpg` through `shed10-workshop.jpg` with descriptive names in between.

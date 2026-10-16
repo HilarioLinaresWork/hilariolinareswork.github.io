@@ -35,3 +35,38 @@ The Shed Project section now uses exactly the 10 retouched images in `Shed final
 Added a second real personal project, **Bathroom Renovation — Start to Finish**, with 14 optimized original photos and accurate captions written from the maker's description of the work. Photo 1 is a crop of the original before-and-after comparison, not a generated image. Numbered bathroom photos are in `assets/bathroom/`; grouped construction stages run from the bottom-plate replacement and plumbing relocation through toilet/bidet installation to a custom-built vanity. Expand **How I did it** under any photo for extra detail.
 
 **Important:** The 10-photo shed gallery remains unchanged. The separate sample gallery is still illustrative and clearly labeled. Do not upload the ZIP itself: extract it and upload its contents to the repository root, replacing existing files. GitHub Pages deployment may take a few minutes.
+
+## Version 1.5 — Real project expansion
+
+Starting from the user-supplied v1.4 Bathroom site, this version keeps the existing Shed (10 photos), Bathroom (14 photos), work experience and styles, and adds an **Hands-On Projects** directory with jump links.
+
+Additional personal work (all photos are the actual selected photos, optimized for the web; no AI replacement scenes):
+
+- `assets/walkway/`: 9 photos of window conversion, outlet preparation, insulation and standing-workstation fabrication (original glued-plywood photo excluded as requested).
+- `assets/car/`: 9 deep-cleaning and odor-removal photos of a Scion FR-S; `assets/hands-on/`: 2 additional hands-on work photos.
+- `assets/desktop/`: 5 selected desktop disassembly and deep cleaning photos.
+- `assets/laptop/`: 5 selected Dell 2-in-1 maintenance photos.
+- `assets/sink/`: 2 photos of the small sink-side laptop shelf (mini-project).
+
+The additional galleries open on demand to keep the page easier to browse. Photos are clickable for a full-size view. Real-photo labels appear on new gallery covers, while original illustrative gallery photos remain plainly described as samples.
+
+### Publishing
+
+Extract the ZIP before uploading. Upload *the contents* of the extracted folder (index.html, styles.css, script.js and the whole assets folder) to the root of the GitHub Pages repository, replacing the older files. No GitHub changes have been made automatically in this chat.
+
+### Accuracy note
+
+All added captions are grounded in the creator's descriptions; the Scion interior results, desktop Windows reinstall and Dell laptop partial cooling improvement are described with those qualifications. The original photo `workstation05-plywood-gluing` was excluded; the revised gallery preserves the original late-stage plywood riser and hinge photos. No inferred professional certifications or verified electrical compliance are claimed.
+
+
+## Version 1.6 — Scion FR-S engine handling photos
+
+Added a distinct Engine Removal & Stand Setup project with two supplied photos. The portfolio now includes this project in the main project directory, with a gallery near the existing FR-S interior cleaning project. The original projects and galleries remain. The two images have been compressed for web display and are stored in `assets/engine/`.
+
+**To update the public GitHub Pages site:** Extract this ZIP and upload its contents — `index.html`, `styles.css`, `script.js`, `assets/` and `README.md` — to the repository root, replacing existing files. The ZIP itself should not be uploaded as the site.
+
+## Version 1.7 — About Me photos
+- Added a personal portrait and a workstation photo to the About Me section.
+- Workstation image was cropped to remove video letterboxing and its monitor content was lightly blurred.
+- No existing project images or galleries were removed.
+- To publish, upload the entire contents of this folder to your existing GitHub Pages repository, replacing previous versions of website files.
